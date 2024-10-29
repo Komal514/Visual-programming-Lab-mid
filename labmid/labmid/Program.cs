@@ -99,7 +99,7 @@ namespace labmid
     {
         private double fundingamount;
         
-        public FundedSociety( double f)
+        public FundedSociety( double f,string n, string c):base(n,c)
         {
             
             this.fundingamount = f;
@@ -112,7 +112,10 @@ namespace labmid
 
     public class NonFundedSociety :Society
     {
+      public  NonFundedSociety(string n, string c):base(n,c)
+        {
 
+        }
     }
 
 
