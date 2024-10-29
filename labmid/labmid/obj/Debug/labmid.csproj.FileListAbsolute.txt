@@ -1,8 +1,0 @@
-C:\Users\233520\source\repos\labmid\labmid\obj\Debug\labmid.csproj.AssemblyReference.cache
-C:\Users\233520\source\repos\labmid\labmid\obj\Debug\labmid.csproj.SuggestedBindingRedirects.cache
-C:\Users\233520\source\repos\labmid\labmid\obj\Debug\labmid.csproj.CoreCompileInputs.cache
-C:\Users\233520\source\repos\labmid\labmid\bin\Debug\labmid.exe.config
-C:\Users\233520\source\repos\labmid\labmid\bin\Debug\labmid.exe
-C:\Users\233520\source\repos\labmid\labmid\bin\Debug\labmid.pdb
-C:\Users\233520\source\repos\labmid\labmid\obj\Debug\labmid.exe
-C:\Users\233520\source\repos\labmid\labmid\obj\Debug\labmid.pdb
